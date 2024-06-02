@@ -1,0 +1,3 @@
+#!/bin/sh
+export gqnews_path=$(pwd)
+alias getnews="node $gqnews_path/index.js"
