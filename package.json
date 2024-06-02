@@ -13,5 +13,8 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "versions": {
+    "1.0.0": "init and working"
+  },
+  "license": "MIT"
 }
